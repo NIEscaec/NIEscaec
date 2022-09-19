@@ -9,7 +9,7 @@ Os relatórios de inteligência econômica produzidos pelo NIE poderão servir p
 - subsidiar a tomada de decisões da SCAEC e de outras áreas; e
 - propiciar a melhoria da qualidade da prestação de contas das atividades desempenhadas pelo MRE no campo econômico.
 
-## Linguagem utilizada nos projetos: 
+Linguagem utilizada nos projetos: 
 
 <p align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white")
