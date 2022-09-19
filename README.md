@@ -15,4 +15,3 @@ Linguagem utilizada nos projetos:
 
 ![NIEscaec github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NIEscaec)
 
-![NIEscaec github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={NIEscaec}&theme=vue)
