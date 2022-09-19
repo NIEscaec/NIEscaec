@@ -10,7 +10,7 @@ Os relatórios de inteligência econômica produzidos pelo NIE poderão servir p
 
 Linguagem utilizada nos projetos:
 
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ![NIEscaec github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NIEscaec)
